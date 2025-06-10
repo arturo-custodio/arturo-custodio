@@ -3,9 +3,9 @@
 🔍 Data Scientist passionate about building intelligent systems and scalable data solutions
 🎓 Degree in Mechatronics Engineering
 📌 Lima, Peru  
-📫 a.custodio@pucp.edu.pe  
-🔗 [LinkedIn](https://linkedin.com/in/arturo-custodio)  
-💻 GitHub: [arturo-custodio](https://github.com/arturo-custodio)
+📫 **Email:** a.custodio@pucp.edu.pe  
+🔗 **LinkedIn:** [arturo-custodio](https://linkedin.com/in/arturo-custodio)  
+💻 **Github:** [arturo-custodio](https://github.com/arturo-custodio)
 
 ---
 
