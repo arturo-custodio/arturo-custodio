@@ -15,8 +15,6 @@ As a Data Scientist with a degree in Mechatronics Engineering from the Pontifica
 
 - **Data Scientist Associate – PCI Energy Solutions, Lima** *(Aug 2024 – Present)*
 - **Teaching Assistant – Pontifical Catholic University of Peru, Lima** *(Apr 2025 – Present)*
-- **Software Analyst Intern – PCI Energy Solutions, Lima** *(May 2024 – Aug 2024)*
-- **Robot Research Intern – Pontifical Catholic University of Peru, Lima** *(Feb 2024 – May 2024)*
 
 ## 🧰 Technical Toolbox
 
@@ -28,6 +26,5 @@ As a Data Scientist with a degree in Mechatronics Engineering from the Pontifica
 
 ## 🎓 Academic Background
 
-**Degree:** Mechatronics Engineering  
 **University:** Pontifical Catholic University of Peru *(2019 – 2024)*  
 🏅 Ranked Top 5% in the Faculty of Science and Engineering
