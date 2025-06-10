@@ -13,8 +13,8 @@ As a Data Scientist with a degree in Mechatronics Engineering from the Pontifica
 
 ## 🌟 Experience Snapshot
 
-- **Data Scientist Associate – PCI Energy Solutions, Lima** *(Aug 2024 – Present)*
-- **Teaching Assistant – Pontifical Catholic University of Peru, Lima** *(Apr 2025 – Present)*
+- **Data Scientist Associate – PCI Energy Solutions** *(Aug 2024 – Present)*
+- **Teaching Assistant – Pontifical Catholic University of Peru** *(Apr 2025 – Present)*
 
 ## 🧰 Technical Toolbox
 
